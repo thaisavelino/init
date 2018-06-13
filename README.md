@@ -13,5 +13,5 @@ For further information check instructions at **init.en.pdf** file.
 
 ### Join slash16
 
-http://slash16.org/
-https://www.linkedin.com/company/slash16/
+Website (http://slash16.org/)
+Linkedin (https://www.linkedin.com/company/slash16/)
