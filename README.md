@@ -9,3 +9,9 @@ basic commands, many of the services used on a server machine, as well as a few 
 scripts that can be useful for SysAdmins on a daily basis.
 
 For further information check instructions at **init.en.pdf** file.
+
+
+### Join slash16
+
+http://slash16.org/
+https://www.linkedin.com/company/slash16/
